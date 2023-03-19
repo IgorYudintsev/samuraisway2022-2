@@ -1,0 +1,17 @@
+.nav {
+	grid-area: n;
+	background-color: #ece049;
+	padding: 10px;
+}
+
+.item a {
+	color: white;
+}
+
+.item a:active {
+	color: #469bce;
+}
+
+.item a:hover {
+	color: DarkMagenta;
+}
